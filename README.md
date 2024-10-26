@@ -4,7 +4,7 @@
 
 This application visualizes text embeddings in 2D space, reducing high-dimensional vector representations (generated using a pre-trained model) down to two dimensions using Principal Component Analysis (PCA). Users can input multiple text strings, which are embedded, reduced, and plotted interactively on a 2D graph, with lines connecting consecutive inputs to form shapes.
 
-![2D Plot Example](example.png)
+![2D Plot Example](example.jpg)
 
 ### Features
 - **Text Embedding**: Converts input text into high-dimensional embeddings using a Sentence Transformer model.
